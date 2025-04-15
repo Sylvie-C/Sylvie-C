@@ -1,19 +1,20 @@
 # 👋 Hello there! I'm Sylvie
 
-🌱 I’m currently learning **Next.js 15, TypeScript 5, TailwindCSS 4**  
-👀 I’m passionate about building beautiful, accessible, and smart web apps  
+💻 I’m actively building personal projects while seeking a remote role, 
+👀 I’m passionate about building beautiful, responsive, and smart web apps  
 🎯 My goal: Become a remote web dev wizard 🧙‍♀️  
-💬 Ask me about frontend magic, internationalization, or web accessibility  
 📫 Reach me on [Linkedin](www.linkedin.com/in/sylvie-castet)  
-⚡ Fun fact: I talk to my cat and she seems to like it 🐱
 
 ---
 
 ## 🚀 Projects
 
 Here are a few things I’ve worked on:
-| Name                   | Description                                      | Live Demo                                              | Repo         |
-| Your Free Artiverse    | Plateform where artists can share their free art | [Vercel link](https://your-free-artiverse.vercel.app)  | [repo link](https://github.com/Sylvie-C/your-free-artiverse)
+### 🚀 Projects
+
+| Name                  | Description                                      | Live Demo                                                | Repo                                                                 |
+|-----------------------|--------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------|
+| Your Free Artiverse   | Platform where artists can share their free art | [Vercel link](https://your-free-artiverse.vercel.app)     | [Repo link](https://github.com/Sylvie-C/your-free-artiverse)         |
 
 | 🌐 [My personal developer portfolio](https://sylvieswebcorner.fr) | [Repositories]([https://github.com/yourname/portfolio](https://github.com/Sylvie-C?tab=repositories)) |
 
