@@ -17,7 +17,7 @@ Here are a few things I’ve worked on:
 | User Connection App   | A login/registration system with Mongo DBdatabase   | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | [![Render](https://img.shields.io/badge/-Live%20on%20Render-00979D?logo=render&logoColor=white)](https://user-connection-frontend.onrender.com/)  | [Repo link]( https://github.com/Sylvie-C/user_connection_MERN_project )  |
 
 🌐 [My personal developer portfolio](https://sylvieswebcorner.fr)  
-[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-181717?logo=github&logoColor=white)]([https://github.com/Sylvie-C](https://github.com/Sylvie-C?tab=repositories))
+[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-181717?logo=github&logoColor=white)](https://github.com/Sylvie-C?tab=repositories)
 
 ---
 
