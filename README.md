@@ -13,8 +13,6 @@ Here are a few things I’ve worked on:
 
 | Name  | Description  | Tags | Live Demo  | Repo |
 |-------|--------------|------|------------|------|
-
-
 | Your Free Artiverse   | Platform where artists can share their art |  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  ![TypeScript 5](https://img.shields.io/badge/-TypeScript%205-3178C6?logo=typescript&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  | [![Vercel](https://img.shields.io/badge/-Live%20on%20Vercel-000?logo=vercel&logoColor=white)](https://your-free-artiverse.vercel.app)   | [Repo link](https://github.com/Sylvie-C/your-free-artiverse)         |
 
 
