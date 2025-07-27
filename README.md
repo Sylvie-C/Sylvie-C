@@ -34,9 +34,10 @@ Here are a few things I’ve worked on:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-F28534?logo=zustand&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-6D28D9?logo=data&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-F28534?logo=zustand&logoColor=white)
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
