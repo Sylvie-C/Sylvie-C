@@ -3,7 +3,6 @@
 💻 I’m actively building personal projects while seeking a remote role,  
 💖 I’m passionate about building beautiful ✨ , responsive, and smart web apps,  
 🎯 My goal: Become a remote web dev wizard 🧙‍♀️  
-📫 Reach me on [Linkedin](https://www.linkedin.com/in/sylvie-castet)  
 
 ---
 
