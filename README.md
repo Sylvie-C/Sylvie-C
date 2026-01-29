@@ -1,8 +1,6 @@
 # 👋 Hello there! I'm Sylvie
 
-💻 I’m actively building personal projects while seeking a remote role,  
-💖 I’m passionate about building beautiful ✨ , responsive, and smart web apps,  
-🎯 My goal: Become a remote web dev wizard 🧙‍♀️  
+💻 I’m developing personal projects and I’m passionate about building web apps, mainly with ReactJS or NextJS. 
 
 ---
 
