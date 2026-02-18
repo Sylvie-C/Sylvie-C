@@ -10,8 +10,8 @@ Here are a few things I’ve worked on:
 
 | Name  | Description  | Tags | Live Demo  | Repo |
 |-------|--------------|------|------------|------|
-| Video Compressor   | A simple application to reduce video file size in your browser | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![ffmpeg.wasm](https://img.shields.io/badge/-ffmpeg.wasm-111111?logo=ffmpeg&logoColor=white) |   <a href="https://sylvie-c.github.io/video-compressor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-View%20on%20GitHub-181717?logo=github&logoColor=white" alt="View on GitHub">
-</a> | [Repo link](https://github.com/Sylvie-C/video-compressor)   |
+| Video Compressor   | A simple application to reduce video file size in your browser | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![ffmpeg.wasm](https://img.shields.io/badge/-ffmpeg.wasm-111111?logo=ffmpeg&logoColor=white) |  
+<a href="https://sylvie-c.github.io/video-compressor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-View%20on%20GitHub-181717?logo=github&logoColor=white" alt="View on GitHub"> </a> | [Repo link](https://github.com/Sylvie-C/video-compressor)   |
 | Turbospell Game   | A game where you have to form words in french within a time limit. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-F28534?logo=zustand&logoColor=white) | <a href="https://turbospell.netlify.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" alt="View on Netlify">
 </a> | [Repo link](https://github.com/Sylvie-C/turbospell)   |                                                      
