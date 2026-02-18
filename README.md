@@ -40,5 +40,5 @@ Here are a few things I’ve worked on:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
-Contact: https://sylvieswebcorner.netlify.app/contact 
-✨ Thanks for stopping by!
+Contact: https://sylvieswebcorner.netlify.app/contact    
+✨ Thanks for stopping by!   
