@@ -18,8 +18,8 @@ Here are a few things I’ve worked on:
 | Ohmyfood | A factitious website to customize and reserve a menu at a restaurant of a user's choice, avoiding queues upon arrival. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) |  [![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-181717?logo=github&logoColor=white)](https://sylvie-c.github.io/ohmyfood/)  |  [Repo link](https://github.com/Sylvie-C/ohmyfood)  |
 
 
-🌐 [My personal developer portfolio](https://sylvieswebcorner.fr)  
-[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-181717?logo=github&logoColor=white)](https://github.com/Sylvie-C?tab=repositories)
+🌐 [My personal developer portfolio](https://sylvieswebcorner.netlify.app)  
+[My repo here](https://github.com/Sylvie-C?tab=repositories)
 
 ---
 
